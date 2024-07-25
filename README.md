@@ -1,5 +1,11 @@
-<h1 align="center">Hello 👋, I'm Olawumi</h1>
-<h3 align="center">A pasionate data analsyt from Lagos, Nigeria</h3>
+# Welcome to My GitHub Profile!
+
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/big-data-analytics-with-ai-technology-data-analyst-analyzing-visualizing-complex-information-network-with-artificial-intelligence-machine-learning-algorithm-business-analytics-finance_35691-39428.jpg" alt="Header Image" />
+</p>
+
+<h1 align="center">Hello world, Welcome! 👋, I'm Olawumi</h1>
+<h3 align="center">A passionate data and business intelligence analyst from Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horlawuhmi&label=Profile%20views&color=0e75b6&style=flat" alt="horlawuhmi" /> </p>
 
@@ -7,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/dataevang_" target="blank"><img src="https://img.shields.io/twitter/follow/dataevang_?logo=twitter&style=for-the-badge" alt="dataevang_" /></a> </p>
 
-- 🔭 I’m currently working on **Data and Business Analsyses**
+- 🔭 I’m currently working on **Data and Business Analyses**
 
-- 🌱 I’m currently learning **Microsoft power platform**
+- 🌱 I’m currently learning **Microsoft Power Platform**
 
-- 👯 I’m looking to collaborate on **Data Entry, Data collection, Data and website analytics, Business intelligence**
+- 👯 I’m looking to collaborate on **Data Entry, Data Collection, Data and Website Analytics, Business Intelligence**
 
-- 🤝 I’m looking for help with **Gigs and freelancing**
+- 🤝 I’m looking for help with **Gigs and Freelancing**
 
 - 👨‍💻 All of my projects are available at [https://mavenanalytics.io/profile/Olawumi-Olabode/180376829](https://mavenanalytics.io/profile/Olawumi-Olabode/180376829)
 
@@ -59,3 +65,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horlawuhmi&show_icons=true&locale=en" alt="horlawuhmi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horlawuhmi&" alt="horlawuhmi" /></p>
+
+<p align="center">
+ 
+</p>
